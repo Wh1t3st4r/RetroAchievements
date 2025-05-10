@@ -1,0 +1,345 @@
+# **Retro Achievements Guide** <br> 🔶 ***Ghost Rider*** <sub><sup> (Playstation 2) </sup></sub>
+
+<p align="center">
+  <img width="512" height="340" src="https://github.com/Wh1t3st4r/RetroAchievements/blob/master/Guides/Ghost%20Rider/Ghost%20Rider%20Cover.png?raw=true" alt="Ghost Rider - Key Art">
+</p>
+
+---
+
+This guide provides comprehensive details on how to unlock each achievement within the base set, offering clear steps and strategies to ensure your success. Additionally, it includes useful information on the leaderboards for those interested in tracking their progress and competing at higher levels.
+
+<sup>This guide mirrors the one available on the achievement set developer's *[Github](https://github.com/Wh1t3st4r/RetroAchievements/tree/master/Guides/Ghost%20Rider "Ghost Rider (Playstation 2) - Achievement Guide")*</sup>
+
+<h3 id=ToC> 📑 Table of Contents</h3>
+
+- 💎 **[Achievement Guide](#AchievementGuide)**
+
+    <sub> General Info </sub>
+    - 📜 [Summary](#Summary)
+    - 📜 [Walkthroughs & Resources](#WalkthroughsResources)
+
+    <sub> Achievements </sub>
+    - 🏆 *[Progression](#Progression)*
+    - 🏆 *[Challenges](#Challenges)*
+    - 🏆 *[Unlocks](#Unlocks)*
+    - 🏆 *[For Fun](#Misc_AchievementCategory)*
+
+- 🥇 **[Leaderboard Guide](#LeaderboardGuide)**
+- 📜 **[Credits](#Credits)**
+- ✏️ **[Footnotes](#Footnotes)**
+
+<h1 id=AchievementGuide>
+    💎 Achievement Guide
+</h1>
+
+<img align="left" width="96" height="96" src="https://media.retroachievements.org/Images/111689.png" alt="Ghost Rider - RetroAchievements Mastery Icon">
+
+```
+Set consists of 61 achievements worth 470 points
+
+Set released on DD MMMM YYYY
+```
+
+## 📜 Summary
+The Ghost Rider set of achievements is varied in challenges and incentivizes you to beat the game in the highest difficulties, it is designed in a way for you to enjoy the game and it's content, all the while beating challenges that are harder, therefore more rewarding than the game itself. 
+
+<h4 id=WalkthroughsResources>
+    📜 Walkthroughs & Resources
+</h4>
+
+If the explanation here doesn't suffice feel free to search up some guides, here are a few helpful resources:
+
++ [Retro Achievements Game Page](https://retroachievements.org/game/20857 "Retro Achievements Game Page - Ghost Rider") 
++ [GameFAQ Guide of Choice](https://gamefaqs.gamespot.com/ps2/929131-ghost-rider/faqs/47323 "GameFAQ Ghost Rider Guide by DonkeyDood")
+
+#### Essential Info & Tips
+
++ You can have to beat the game at least two times (with correct optimizations) to conquer the set,  beware that the game is linear, **be careful with your saves**.
++ To beat the challenges, it is **recommended** that you play with upgrades, as some challenges are almost impossible without them
+
+> [!IMPORTANT]
+> LOREM IPSUM
+
+---
+
+
+
+<h1 id=Progression>
+    🏆 Progression <i><sub><sup>(34 achievements - 194 points)</sup></sub></i>
+</h1>
+
+The achievements under this category are exclusive to beating the game's levels and beating the game in specified difficulties.
+
+> [!WARNING]
+> Every progression achievement is **blocked** while playing with cheats activated!
+
+### Progression Achievement List
+
+| Title <sub><sup><i>(dev_id)</i></sup></sub> | Guidance & Insights |
+|:---:|---|
+| <h3 id=a_placeholderID>**title_placeholder**</h3><br><sub>*a_placeholderID*</sub> <br><br> ![Achievement badge icon](https://i.retroachievements.org/Badge/00000.png "Achievement badge icon") | _GENERAL_EXPLANATION_HERE_ <br><br> <h4>Fail Conditions</h4> - _fail_condition_info_ <br> <sub>If any fail condition is met, the player can easily retry the achievement by ... </sub> <br><br> <h4>Achievement Tracking</h4> - A [Trigger Indicator](#RA_Trigger) is displayed when ... <br> - A [Measured Indicator](#RA_Measured) tracks ... up to ... <br><br> <sub> **Misc note ⁃** *_MISC_NOTE_HERE_* </sub> <br> <sub>**Developer note ⁃** *_DEVELOPER_NOTE_HERE_* </sub> |
+
+🔗 [Back to Table of Contents](#ToC)
+
+🔗 [Back to Top of Achievement Category](#Progression)
+
+---
+
+
+<h1 id=Challenges>
+    🏆 Challenges <i><sub><sup>(15 achievements - 206 points)</sup></sub></i>
+</h1>
+
+Here are comprised the challenges for your playthrough, most of them are available for **Punishing difficulty only**, as that difficulty hits the sweet spot for a challenge being both feasible and fun, and especially a treat to spice the first playthrough a bit!
+
+> #### Summary of Challenge Types
+> - Not taking any damage in some boss fights.
+> - Defeating specific bosses in a strict manner.
+> - Beating the game in the highest difficulty.
+> - Executing moves x times in one session.
+
+> [!WARNING]
+> Pay attention that some are only available for the **Punishing difficulty only**!
+
+### Challenge Achievements Grouped by Availability
+
+<details>
+    <summary><b><u>Click here</u> ◂</b> to toggle open this summary</summary><br>
+
+| Difficulty | Achievements |
+|:---:|---|
+| **Any** <sub>(3)</sub> | - **Gas Gas Gas!** <sub> [On Guide](#516975) ⇒ *[On RA](https://retroachievements.org/achievement/516975)* </sub> <br> - **Lore Accurate Ghost Rider** <sub> [On Guide](#516980) ⇒ *[On RA](https://retroachievements.org/achievement/516980)* </sub> <br> - **A Window to the Soul** <sub> [On Guide](#516981) ⇒ *[On RA](https://retroachievements.org/achievement/516981)* </sub> |
+| **Punishing** <sub>(10)</sub> | - **Sorry, Did That Hurt?** <sub> [On Guide](#516982) ⇒ *[On RA](https://retroachievements.org/achievement/516982)* </sub> <br> - **Hell's Express Lane** <sub> [On Guide](#516976) ⇒ *[On RA](https://retroachievements.org/achievement/516976)* </sub> <br> - **The One and Only Rider** <sub> [On Guide](#516891) ⇒ *[On RA](https://retroachievements.org/achievement/516891)* </sub> <br> - **By Hand, By Fury** <sub> [On Guide](#516978) ⇒ *[On RA](https://retroachievements.org/achievement/516978)* </sub> <br> - **Still a Gentleman** <sub> [On Guide](#516895) ⇒ *[On RA](https://retroachievements.org/achievement/516895)* </sub> <br> - **Should've That Be Hard?** <sub> [On Guide](#516892) ⇒ *[On RA](https://retroachievements.org/achievement/516892)* </sub> <br> - **The Wind Blows** <sub> [On Guide](#516977) ⇒ *[On RA](https://retroachievements.org/achievement/516977)* </sub> <br> - **No Need for Fancy Powers** <sub> [On Guide](#516894) ⇒ *[On RA](https://retroachievements.org/achievement/516894)* </sub> <br> - **Stunning Performance!** <sub> [On Guide](#516893) ⇒ *[On RA](https://retroachievements.org/achievement/516893)* </sub> <br> - **Proper Beating** <sub> [On Guide](#516890) ⇒ *[On RA](https://retroachievements.org/achievement/516890)* </sub>   |
+| **Extreme** <sub>(2)</sub> | - **The Master** <sub> [On Guide](#515614) ⇒ *[On RA](https://retroachievements.org/achievement/515614)* </sub> <br> - **There Are Worse Things Out Tonight than Vampires** <sub> [On Guide](#516974) ⇒ *[On RA](https://retroachievements.org/achievement/516974)* </sub> |
+
+</details>
+
+### Challenge Achievement List
+
+|                                                                               Title                                                                               | Guidance & Insights                                                                                                                                                                                                                                                                                                                                                    |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <h3 id=516982>**Sorry, Did That Hurt?**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/585018.png "Achievement badge icon") | Beat the game on **Punishing difficulty**, while not upgrading your *Moves* or *Specials* (Obtaining the unlockables are fine though) <br><br> <h4>Fail Conditions</h4> - If there are any upgrades bought, the achievement will not pop. <br> <sub>You can easily retry the achievement by reloading your saved game before any upgrades had been bought. </sub> <br> |
+
+|                                                                          Title                                                                          | Guidance & Insights                                                |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------ |
+| <h3 id=515614>**The Master**</h3><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/584898.png "Achievement badge icon") | <br><br><br>Beat the game on Expert difficulty with any skin. <br> |
+
+|                                                                                            Title                                                                                             | Guidance & Insights                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <h3 id=516974>**There Are Worse Things Out Tonight than Vampires**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/585009.png "Achievement badge icon") | Beat the game on Expert difficulty as Blade.<br>The gameplay as blade is harder, but simpler, this is definitely the hardest achievement of the set, but playing safe is the best overall strategy here.<br><br>***Below are some tips/strategies to succeed:***<br>- Use mostly SQUARE combos, kicking with TRIANGLE is less effective and inaccurate.<br>- Prioritize and focus on the most dangerous enemy, R1 + TRIANGLE and hitting the enemy in the air is a fool-proof strategy.<br>- When encountering bosses such as the *Terrorsmith* while surrounded with enemies, spam X + TRIANGLE to do air kicks, they make you very hard to hit while dishing out moderate damage. <br>- Always suck the blood out of tough enemies, it's a both fast and guaranteed kill, and also restores your health.<br> |
+
+|                                                                          Title                                                                           | Guidance & Insights                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <h3 id=516975>**Gas Gas Gas!**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/585010.png "Achievement badge icon") | Clear the specified levels without ever hitting the breaks (pressing **L1**), harder than you might think on some levels!<br>The multiple choice nature of this achievement incentivizes you to not stress over a potential loss, and gives you the opportunity to try again in another level.<br>Below are the levels where this challenge can be done:<br><br>"Hell's Highway"                 <------ The easiest level to obtain the achievement.<br>"Back To The Surface"<br>"City Limits"<br>"Carnival Return"<br>"Ride Like The Wind"<br> <h4>Fail Conditions</h4> - Pressing **L1** while in-game. <br> <sub>If the fail condition is met, you can retry the achievement by restarting the level or reloading the saved game.</sub> <br><br> <h4>Achievement Tracking</h4> - A [Trigger Indicator](#RA_Trigger) is displayed when a valid level is being loaded.<br> |
+
+|                                                                                 Title                                                                                 | Guidance & Insights                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <h3 id=516980>**Lore Accurate Ghost Rider**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/585016.png "Achievement badge icon") | Watch out for the obstacles! Especially those involving jumps and slides, to win you just need to not hit any obstacles, taking damage from anything else is fair game! <br>Below are the levels where this challenge can be done, none are particularly a walk in the park:<br>"Flooded Depths"<br>"Swimming With Sharks"<br>"The Danger Zone"<br>"Route 666"<br> <h4>Fail Conditions</h4> - Dying/Ragdolling <br> <sub>If you die, you can retry the achievement by reloading the game or loading the saved game </sub> <br><br> <h4>Achievement Tracking</h4> - A [Trigger Indicator](#RA_Trigger) is displayed when a specified level is being loaded.<br> |
+
+|                                                                              Title                                                                              | Guidance & Insights                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <h3 id=516976>**Hell's Express Lane**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/585012.png "Achievement badge icon") | On **Punishing difficulty only**, the trick for this one is using the powers, especially the shotgun and the link charge against the Terrorsmith. Fire your shotgun empty somewhat far from him, then preemptively use your link charge to damage him, then you want to do the *Forward Chain Slam* to stun the enemy, and do as most damage as possible, and with that you should have it in the bag in 30 seconds or less!  <br><br> <h4>Fail Conditions</h4> - Not defeating the Terrorsmith in 30 in-game seconds or less (initial cutscene does not count)<br> <sub>If you fail, you can retry the achievement by restarting the level </sub> <br><br> <h4>Achievement Tracking</h4> - A [Trigger Indicator](#RA_Trigger) is displayed when the Terrorsmith spawns<br><br> |
+
+|                                                                               Title                                                                                | Guidance & Insights                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <h3 id=516891>**The One and Only Rider**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/584902.png "Achievement badge icon") | Vengeance rides in a predictable pattern, always spam CIRCLE and it is very recommended that you **save up on points** to upgrade the **bike's hellshot** to ease this battle; you can hug the left side of the road to avoid his initial attacks, then do as much damage as possible when he's by your side, when he speeds in front of you, be on one of the extremes of the track and prepare for his lasers, with great timing and CIRCLE mashing, he should be defeated by the time he once again is by your side.<br>Refer to the video in [the achievement's page](https://retroachievements.org/achievement/516891) for a visual reference.<br><br> <h4>Fail Conditions</h4> - Taking any damage <br> <sub>If you fail, you can retry the achievement by restarting the level</sub> <br><br> <h4>Achievement Tracking</h4> - A [Trigger Indicator](#RA_Trigger) is displayed when you load into the level.<br> |
+
+|                                                                            Title                                                                             | Guidance & Insights                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <h3 id=516895>**By Hand, By Fury**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/585014.png "Achievement badge icon") | Available on **Punishing difficulty only**.<br>The Earth Elemental is a trivial battle, just keep attacking in a steady pace, the more advanced your combos are, the easier to defeat him. In summary, block and roll from the attacks and dish out damage. <br><br> <h4>Fail Conditions</h4> - Damaging the enemy with the Shotgun, Link Charge, or while having the Vengeance power-up activated.<br> <sub>If you fail, you can retry the achievement by restarting the level</sub> <br><br> <h4>Achievement Tracking</h4> - A [Trigger Indicator](#RA_Trigger) is displayed when the Earth Elemental spawns.<br><br> |
+
+|                                                                             Title                                                                             | Guidance & Insights                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <h3 id=516892>**Still a Gentleman**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/584906.png "Achievement badge icon") | Available on **Punishing difficulty only**.<br>This is tricky, it's best to have your health and especially your Spirit Meter upgraded.<br>Use the enemies that she spawns as free spirit meter farms, try to stun them and lead them away from Lilith, and when she lowers her guard you quickly get to her and blast away! You can keep at least one enemy alive for her to not spawn more, and do that until your meter runs out.<br>Remember that **you can** use your powers against her minions, but be careful with your timing so they don't hit her!<br><br> <h4>Fail Conditions</h4> - Damaging her by any means other than shooting her<br> <sub>If you fail, you can retry the achievement by restarting the level</sub> <br><br> <h4>Achievement Tracking</h4> - A [Trigger Indicator](#RA_Trigger) is displayed when the enemy appears<br><br> <sub>**Developer note ⁃** *This is very specific as I wanted a challenge that technically display the ways of a "gentleman". You should never raise your hand against a woman and hit her, and indeed you don't here!* </sub> |
+
+|                                                                                Title                                                                                | Guidance & Insights                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <h3 id=516977>**Should've That Be Hard?**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/584903.png "Achievement badge icon") | Same as with Vengeance, spam CIRCLE and avoid some obstacles along the path, beware of the waves that he produces, time your jumps precisely!<br>When he draws his bombs, you should be already shooting him, in that case he has no opportunities to damage you. This one is not much of a tricky one!<br><br> <h4>Fail Conditions</h4> - Taking any damage <br> <sub>If you fail, you can retry the achievement by restarting the level</sub> <br><br> <h4>Achievement Tracking</h4> - A [Trigger Indicator](#RA_Trigger) is displayed when you load into the level<br> |
+
+|                                                                           Title                                                                            | Guidance & Insights                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <h3 id=516894>**The Wind Blows**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/585013.png "Achievement badge icon") | Available on **Punishing difficulty only**.<br>The best way do deal with him is the Indiana Jones way, store as much Spirit Meter as possible (you may need aprox. 6 bars), and just shoot him.<br>When you get to the abandoned building and a lot of bats appear, you should start to save up the meter.<br><br> <h4>Fail Conditions</h4> - Blocking or rolling<br> <sub>If you fail, you can retry the achievement by restarting the level</sub> <br><br> <h4>Achievement Tracking</h4> - A [Trigger Indicator](#RA_Trigger) is displayed when the sub-boss spawns<br> |
+
+|                                                                                Title                                                                                 | Guidance & Insights                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <h3 id=516893>**No Need for Fancy Powers**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/584905.png "Achievement badge icon") | Available on **Punishing difficulty only**.<br>It'll be more time consuming than simply blasting him, but do stack up the Spirit Meter with the crows and blast him with your shotgun.<br>When he starts to summon spikes from the ground, you need stellar rolling reflexes to not get hit, and you should punch the pillar that moves as fast as possible, so you can combo/shoot Scarecrow.<br><br> <h4>Fail Conditions</h4> - Damaging him by using the Link Charge power<br> <sub>If you fail, you can retry the achievement by restarting the level</sub> <br><br> <h4>Achievement Tracking</h4> - A [Trigger Indicator](#RA_Trigger) is displayed when the boss spawns<br> |
+
+|                                                                               Title                                                                               | Guidance & Insights                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <h3 id=516978>**Stunning Performance!**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/584904.png "Achievement badge icon") | Available on **Punishing difficulty only**.<br>This surely cannot be done without an upgraded Spirit meter.<br>As the name implies, the game here is stunning, use the shotgun to stun the Muck Monster and immediately use the best combo you have available, I recommend the *Helicopter Slice*, and repeat the process until the monster is defeated.<br>If you don't get the timing straight, roll away and try again.<br>Try to conserve the Spirit Meter throughout the level to easily conquer this challenge, if you stun you win!<br><br> <h4>Fail Conditions</h4> - Taking any damage <br> <sub>If you fail, you can retry the achievement by restarting the level</sub> <br><br> <h4>Achievement Tracking</h4> - A [Trigger Indicator](#RA_Trigger) is displayed when the Muck Monster spawns<br> <br> |
+
+|                                                                           Title                                                                            | Guidance & Insights                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <h3 id=516890>**Proper Beating**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/584901.png "Achievement badge icon") | Available on **Punishing difficulty only**.<br>Simply abuse of your combos to quickly dispatch Blackheart, use any of your choice!<br>You can use the shotgun against his hand, but not to deal damage when his head is resting.<br>The fight itself is pretty easy, you shouldn't have any problem rolling away from the slaps. The fire rain can be easily blocked. When he prepares a two-hand punch, be far from the middle of the arena and jump in time.<br><br> <h4>Fail Conditions</h4> - Damaging Blackheart by shooting, blasting or while with the Vengeance power-up  <br> <sub>If you fail, you can retry the achievement by restarting the level</sub> <br><br> <h4>Achievement Tracking</h4> - A [Trigger Indicator](#RA_Trigger) is displayed when the level starts<br> <br> |
+
+|                                                                              Title                                                                               | Guidance & Insights                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <h3 id=516981>**A Window to the Soul**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/585017.png "Achievement badge icon") | For this you want to accumulate your Spirit Meter until it hits the 4th segment, and when you reach that part you want to immediately delete any foe in sight, by pressing CIRCLE on them.<br>Use the Link Charge power against a modestly big crowd while being emptied of your Spirit Meter to maximize the amount of the meter you fill.<br>For style points and for your survival, prioritize it's use on sub-bosses and stronger enemies.<br> <h4>Fail Conditions</h4> - Leaving the game to the main menu<br> <sub>If you fail, you can retry the achievement by loading your saved game or start from the beginning of the game</sub> <br><br> <h4>Achievement Tracking</h4><br> - A [Measured Indicator](#RA_Measured) tracks the Penitence Stare power up to 15 uses in a single session. <br><br> <sub> **Misc note ⁃** *You don't need to be in the same map, you just need to do it all in one linear sitting* </sub> <br> <sub>**Developer note ⁃** *Unfortunately there weren't any counters for the use of the Penitence Stare as games like God of War have, that is the reason that it has to be done in one sitting* </sub> |
+
+🔗 [Back to Table of Contents](#ToC)
+
+🔗 [Back to Top of Achievement Category](#Challenges)
+
+---
+
+
+
+
+
+
+<h1 id=Unlocks>
+    🏆 Unlocks <i><sub><sup>(10 achievements - 64 points)</sup></sub></i>
+</h1>
+
+These are related to unlocking all upgrades available in the game, and also all unlockables.
+
+> [!NOTE]
+> You should get all of them in a normal playthrough, if you are playing a no upgrade run you can revisit your save game after beating and unlock them from there.
+
+> [!WARNING]
+> Upgrading any *Moves* or *Specials* while attempting *[Sorry, Did That Hurt?](#516982)* will **block** the achievement, you may *only* obtain the **unlockables** if you are up for the challenge.
+
+### Unlock Achievement List
+
+|                                                                         Title                                                                         | Guidance & Insights                                                                                   |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------- |
+| <h3 id=515617>**The Good**</h3><br> <br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/585001.png "Achievement badge icon") | <br><br><br><br>To obtain this achievement you need to upgrade all levels of the Fire Combo upgrades. |
+
+|                                                                        Title                                                                        | Guidance & Insights                                                                                    |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------ |
+| <h3 id=515618>**The Bad**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/585003.png "Achievement badge icon") | <br><br><br><br>To obtain this achievement you need to upgrade all levels of the Heavy Combo upgrades. |
+
+|                                                                        Title                                                                         | Guidance & Insights                                                                                    |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------ |
+| <h3 id=515619>**The Ugly**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/585002.png "Achievement badge icon") | <br><br><br><br>To obtain this achievement you need to upgrade all levels of the Light Combo upgrades. |
+
+|                                                                       Title                                                                        | Guidance & Insights                                                                               |
+| :------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------- |
+| <h3 id=515620>**Buffed**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/585020.png "Achievement badge icon") | <br><br><br><br>To obtain this achievement you need to upgrade all levels of the Health upgrades. |
+
+|                                                                                      Title                                                                                      | Guidance & Insights                                                                                     |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------- |
+| <h3 id=515621>**Vengeance Will Flow Through My Body**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/585021.png "Achievement badge icon") | <br><br><br><br>To obtain this achievement you need to upgrade all levels of the Spirit Meter upgrades. |
+
+|                                                                                   Title                                                                                   | Guidance & Insights                                                                                    |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------ |
+| <h3 id=515622>**The Innocents Will Be Avenged**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/585004.png "Achievement badge icon") | <br><br><br><br>To obtain this achievement you need to upgrade all levels of the Link Charge upgrades. |
+
+|                                                                             Title                                                                              | Guidance & Insights                                                                                |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------- |
+| <h3 id=515623>**Good Ol' Reliable!**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/585005.png "Achievement badge icon") | <br><br><br><br>To obtain this achievement you need to upgrade all levels of the Shotgun upgrades. |
+
+|                                                                       Title                                                                        | Guidance & Insights                                                                                        |
+| :------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------- |
+| <h3 id=515624>**Tuning**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/585007.png "Achievement badge icon") | <br><br><br><br>To obtain this achievement you need to upgrade all levels of the Bike's Hellshot upgrades. |
+
+|                                                                           Title                                                                           | Guidance & Insights                                                                                    |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------ |
+| <h3 id=515627>**Art Collector**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/584908.png "Achievement badge icon") | <br><br><br><br>To obtain this achievement you need to obtain all Artwork of the Gallery Bundles page. |
+
+|                                                                          Title                                                                           | Guidance & Insights                                                                           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------- |
+| <h3 id=515626>**Nerding Out!**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/584907.png "Achievement badge icon") | <br><br><br><br>To obtain this achievement you need to obtain all Artwork of the Comics page. |
+
+|                                                                                Title                                                                                | Guidance & Insights                                                                          |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------- |
+| <h3 id=515625>**Developers, Developers!**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/585011.png "Achievement badge icon") | <br><br><br><br>To obtain this achievement you need to obtain all Movies of the Movies page. |
+
+🔗 [Back to Table of Contents](#ToC)
+
+🔗 [Back to Top of Achievement Category](#Unlocks)
+
+---
+
+
+
+
+
+
+<h1 id=Misc_AchievementCategory>
+    🏆 For Fun <i><sub><sup>(2 achievements - 6 points)</sup></sub></i>
+</h1>
+
+This are achievements that entice the player into doing something noteworthy but silly.
+
+### For Fun Achievement List
+
+|                                                                               Title                                                                               | Guidance & Insights                                                                                                                                                                                                                                                                                                                                                   |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <h3 id=a_placeholderID>**Ghost of War**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/585019.png "Achievement badge icon") | For this you need to upgrade your Light Combos and do the Forward Chain Slam, by hitting SQUARE, SQUARE and TRIANGLE.<br> <h4>Fail Conditions</h4> - None <h4>Achievement Tracking</h4> - None<br><br> <sub>**Developer note ⁃** *The game is compared a lot to Ghost Rider since it came out, and I wanted to pay homage to that comparison with this cheevo* </sub> |
+
+|                                                                             Title                                                                             | Guidance & Insights                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <h3 id=a_placeholderID>**Real Fan**</h3><br><br><br> ![Achievement badge icon](https://media.retroachievements.org/Badge/585015.png "Achievement badge icon") | Firstly, unlock all Developer Commentary movies by purchasing all items from the Movies Upgrades (unlocking [*Developers, Developers!*](#515625)); then go into the Extras tab, then Movies, and watch all four movies.<br><br> <h4>Fail Conditions</h4> - The counter will reset if you start/load a game. <br> <sub>If the fail condition is met, you can retry the achievement by re-watching all movies.</sub> <br><br> <h4>Achievement Tracking</h4> <br> - A [Measured Indicator](#RA_Measured) tracks the progress of the movies watched, using *Add Hits* as delimeters. <br><br> |
+
+🔗 [Back to Table of Contents](#ToC)
+
+🔗 [Back to Top of Achievement Category](#Misc_AchievementCategory)
+
+---
+
+
+
+
+
+<h1 id=LeaderboardGuide>
+    🥇 Leaderboard Guide 
+</h1>
+
+This section provides a detailed breakdown of the various leaderboards featured in the game, helping players understand how to compete, measure progress, and achieve high scores. Each leaderboard is thoroughly explained, covering its purpose, requirements, and how scores are calculated.
+
+Inside, you’ll find:
+- **Leaderboard Overviews**: A description of what each leaderboard represents, such as chapter completion challenges or special gameplay modes.
+- **Start Requirements**: Information on how to activate the leaderboard, including prerequisites like starting conditions and restrictions on cheats.
+- **Cancel Conditions**: Clear explanations of what actions or circumstances will deactivate or invalidate the player's leaderboard attempt.
+- **Submit Conditions**: The steps necessary to successfully submit your score to the leaderboard.
+- **Score Calculation Details**: A breakdown of how the player's score is determined, with formulas and factors like accuracy, damage taken, time spent, and other gameplay metrics.
+
+With this guide, the player will not only understand the mechanics behind each leaderboard but also gain insights into how to optimize performance and climb the ranks. Whether aiming to perfect a story chapter on higher difficulties or striving for the top spot in specific challenges, this section equips you with everything you need to know.
+
+### Leaderboard List
+
+| Title <sub><sup><i>(dev_id)</i></sup></sub> | Guidance & Insights |
+|:---:|---|
+| <h3 id=lb_placeholderID>**title_placeholder**</h3><br><sub>*lb_placeholderID*</sub> <br><br> | _SOME_GENERAL_INFO_ <br><br> <h4>Start Requirements</h4> - INFO_ABOUT_START_REQUIREMENTS <br><br> <h4>Cancel Conditions</h4> - INFO_ABOUT_CANCEL_CONDITIONS <br><br> <h4>Submit Conditions</h4> - _INFO_ABOUT_SUBMIT_CONDITIONS_ <br><br> <h4>Measured Value</h4> - _INFO_ABOUT_MEASUREDVALUE_ <br><br><sub>**Developer note ⁃** *_NOTE_HERE_* </sub> |
+
+🔗 [Back to Table of Contents](#ToC)
+
+🔗 [Back to Top of Leaderboard Guide](#LeaderboardGuide)
+
+---
+
+
+
+
+<h1 id=Credits>
+    📜 Credits
+</h1>
+
+|                                                                                                               RA-User                                                                                                                | Role                                                                                      |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------- |
+|                   <h4>[ASolidSnack](https://retroachievements.org/user/ASolidSnack)</h4> <img src="https://media.retroachievements.org/UserPic/ASolidSnack.png" alt="RA-User Avatar Image" width="96" height="96">                   | <b> 🟉 *Achievement Set Developer* \| *Badge Design* \| *RA-Guide Author* </b> <br><br>   |
+| <h4>[placeholder_contributor](https://retroachievements.org/user/placeholder_contributer)</h4> <img src="https://media.retroachievements.org/UserPic/placeholder_contributer.png" alt="RA-User Avatar Image" width="96" height="96"> | <b> 🟉 *Contributor* \| *Tester* </b> <br><br> - Contributed by ... <br> - Tested the ... |
+
+<h1 id=Footnotes>
+    ✏️ Footnotes
+</h1>
+
+<h4 id=RA_Measure> • Measured Indicator </h4>
+
+An indicator displayed by the Retro Achievements overlay, often used to track specific progress within an achievement.
+> **Examples**: 
+> - *Headshots* - 7/12 
+> - *Enemies left* - 11/100 
+> - *Accuracy* - 47% 
+> - *Coins collected* - 88%
+
+<h4 id=RA_Trigger> • Triggered Indicator </h4>
+
+An indicator displayed by the Retro Achievements overlay, typically used to show when a challenge achievement is available for unlocking or when it is currently active. If this indicator disappears before the achievement unlocks, it often signals a failure, indicating that a retry is necessary.
+> **Examples**: 
+> - Enough headshots acquired, finish the mission 
+> - All enemies killed, kill the boss
+> - Player has not yet taken a hit - for a hitless achievement
+> - All requirements are met, continue the game to unlock...
+<br>
