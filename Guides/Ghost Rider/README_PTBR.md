@@ -8,7 +8,7 @@
 
 Este guia fornece detalhes abrangentes sobre como desbloquear cada conquista do jogo, oferecendo etapas e estratégias claras para garantir o seu sucesso. Além disso, inclui informações úteis sobre as tabelas de classificação para aqueles interessados em acompanhar seu progresso e competir em níveis mais altos.
 
-<sup> **[ENGLISH VERSION OF THE GUIDE](https://github.com/Wh1t3st4r/RetroAchievements/tree/master/Guides/Ghost%20Rider "Ghost Rider (Playstation 2) - Achievement Guide")**</sup>
+<sup> **[ENGLISH VERSION OF THE GUIDE](https://github.com/Wh1t3st4r/RetroAchievements/tree/master/Guides/Ghost%20Rider/README.md "Ghost Rider (Playstation 2) - Achievement Guide")**</sup>
 
 <sup> Este guia espelha o disponível no *[Github](https://github.com/Wh1t3st4r/RetroAchievements/tree/master/Guides/Ghost%20Rider "Ghost Rider (Playstation 2) - Achievement Guide")* do desenvolvedor do conjunto de conquistas.</sup>
 
