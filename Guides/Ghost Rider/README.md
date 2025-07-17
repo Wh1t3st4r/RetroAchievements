@@ -8,6 +8,8 @@
 
 This guide provides comprehensive details on how to unlock each achievement within the base set, offering clear steps and strategies to ensure your success. Additionally, it includes useful information on the leaderboards for those interested in tracking their progress and competing at higher levels.
 
+<sup> **[VERSÃO BRASILEIRA DO GUIA](https://github.com/Wh1t3st4r/RetroAchievements/blob/master/Guides/Ghost%20Rider/README_PTBR.md "Ghost Rider (Playstation 2) - Achievement Guide")**</sup>
+
 <sup>This guide mirrors the one available on the achievement set developer's *[Github](https://github.com/Wh1t3st4r/RetroAchievements/tree/master/Guides/Ghost%20Rider "Ghost Rider (Playstation 2) - Achievement Guide")*</sup>
 
 <h3 id=ToC> 📑 Table of Contents</h3>
