@@ -37,7 +37,7 @@ Este guia fornece detalhes abrangentes sobre como desbloquear cada conquista do 
 <img align="left" width="96" height="96" src="https://media.retroachievements.org/Images/111689.png" alt="Ghost Rider - RetroAchievements Mastery Icon">
 
 ```
-O conjunto consiste em 61 conquistas que valem 470 pontos
+O conjunto consiste em 60 conquistas que valem 465 pontos
 
 Conjunto lançado em 13 de Agosto, 2025
 ```
