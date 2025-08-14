@@ -39,7 +39,7 @@ Este guia fornece detalhes abrangentes sobre como desbloquear cada conquista do 
 ```
 O conjunto consiste em 61 conquistas que valem 470 pontos
 
-Conjunto lançado em DD MMMM YYYY
+Conjunto lançado em 13 de Agosto, 2025
 ```
 
 ## 📜 Resumo
