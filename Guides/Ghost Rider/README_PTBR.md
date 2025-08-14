@@ -369,7 +369,6 @@ Com este guia, o jogador não apenas entenderá a mecânica por trás de cada ta
 |                      <h4>[Wh1t3st4r](https://retroachievements.org/user/Wh1t3st4r)</h4> <img src="https://media.retroachievements.org/UserPic/Wh1t3st4r.png" alt="RA-User Avatar Image" width="96" height="96">                      | <b> 🟉 *Desenvolvedor do conjunto de conquistas* \| *Design das Medalhas* \| *Autor do Guia-RA* </b> <br><br> |
 |                      <h4>[CySlaytor](https://retroachievements.org/user/CySlaytor)</h4> <img src="https://media.retroachievements.org/UserPic/CySlaytor.png" alt="RA-User Avatar Image" width="96" height="96">                      | <b> 🟉 _Contribuinte_</b> <br><br>                                                                            |
 |                   <h4>[ASolidSnack](https://retroachievements.org/user/ASolidSnack)</h4> <img src="https://media.retroachievements.org/UserPic/ASolidSnack.png" alt="RA-User Avatar Image" width="96" height="96">                   | <b> 🟉 _Contribuinte_ \| _Design do Guia-RA_ </b> <br><br>                                                    |
-| <h4>[placeholder_contributor](https://retroachievements.org/user/placeholder_contributer)</h4> <img src="https://media.retroachievements.org/UserPic/placeholder_contributer.png" alt="RA-User Avatar Image" width="96" height="96"> | <b> 🟉 *Contribuinte* \| *Testador* </b> <br><br> - Contribuído por ... <br> - Testou o ...                   |
 
 <h1 id=Footnotes>
     ✏️ Notas de Rodapé 
