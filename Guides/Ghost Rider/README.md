@@ -37,9 +37,9 @@ This guide provides comprehensive details on how to unlock each achievement with
 <img align="left" width="96" height="96" src="https://media.retroachievements.org/Images/111689.png" alt="Ghost Rider - RetroAchievements Mastery Icon">
 
 ```
-Set consists of 61 achievements worth 470 points
+Set consists of 60 achievements worth 465 points
 
-Set released on DD MMMM YYYY
+Set released on the 13th of August, 2025
 ```
 
 ## 📜 Summary
@@ -59,8 +59,6 @@ If the explanation here doesn't suffice feel free to search up some guides, here
 + You can have to beat the game at least two times (with correct optimizations) to conquer the set,  beware that the game is linear, **be careful with your saves**.
 + To beat the challenges, it is **recommended** that you play with upgrades, as some challenges are almost impossible without them
 
-> [!IMPORTANT]
-> LOREM IPSUM
 
 ---
 
