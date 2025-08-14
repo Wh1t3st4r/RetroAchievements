@@ -373,7 +373,6 @@ With this guide, the player will not only understand the mechanics behind each l
 |                   <h4>[Wh1t3st4r](https://retroachievements.org/user/Wh1t3st4r)</h4> <img src="https://media.retroachievements.org/UserPic/Wh1t3st4r.png" alt="RA-User Avatar Image" width="96" height="96">                   | <b> 🟉 *Achievement Set Developer* \| *Badge Design* \| *RA-Guide Author* </b> <br><br>   |
 |                   <h4>[CySlaytor](https://retroachievements.org/user/CySlaytor)</h4> <img src="https://media.retroachievements.org/UserPic/CySlaytor.png" alt="RA-User Avatar Image" width="96" height="96">                   | <b> 🟉 _Contributor_</b> <br><br>   |
 |                   <h4>[ASolidSnack](https://retroachievements.org/user/ASolidSnack)</h4> <img src="https://media.retroachievements.org/UserPic/ASolidSnack.png" alt="RA-User Avatar Image" width="96" height="96">                   | <b> 🟉 _Contributor_ \| _RA-Guide Design_ </b> <br><br>   |
-| <h4>[placeholder_contributor](https://retroachievements.org/user/placeholder_contributer)</h4> <img src="https://media.retroachievements.org/UserPic/placeholder_contributer.png" alt="RA-User Avatar Image" width="96" height="96"> | <b> 🟉 *Contributor* \| *Tester* </b> <br><br> - Contributed by ... <br> - Tested the ... |
 
 <h1 id=Footnotes>
     ✏️ Footnotes
